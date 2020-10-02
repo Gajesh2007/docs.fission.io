@@ -60,3 +60,7 @@ Hello, world!
 
 * [Join Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE)
 * Twitter: http://twitter.com/fissionio
+
+## Contribute
+
+* Contribute to our Project on [Github](https://github.com/fission/fission)
